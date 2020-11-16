@@ -1,4 +1,4 @@
-# Balyasny_Russell3000_Project
+# Balyasny_Stock_Price_Prediction_Project
 This is an internship project finished with Balyasny Asset Management. No confidential information is included.  
 
 The goal is to build a model to predict short-term stock price movements in the consumer discretionary of the Russell3000 index.
