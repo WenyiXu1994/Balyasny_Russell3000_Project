@@ -8,7 +8,7 @@ All the historical price and volumn data used in the "Simple_indicator_formation
 ### Step 1: Calculate simple indicators and 2-way & 3-way complex indicators.
 Simple indicators: Formed from commonly used trading rules.
 2-way & 3-way complex indicators: Formed by combining simple indicators.  
-![avatar](/images/rules.png){:height="50%" width="50%"}
+![avatar](/images/rules.png)
 
 ### Step 2：Identify big recession periods
 Used historical S&P index data and VIX index data to identify recession periods.  
