@@ -18,6 +18,6 @@ Recessions usually come with a low S&P index and high VIX index.
 
 ### Step 3: Build predictive models on a rolling basis.
 Built a random forest model and optimized its hyper-parameters by cross-validation on a rolling basis.
-![avatar](/images/rolling.png){:height="50%" width="50%"}
+![avatar](/images/rolling.png)
 
 
