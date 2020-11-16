@@ -6,9 +6,14 @@ All the historical price and volumn data used in the "Simple_indicator_formation
 ## Step 1：Identify big recession periods
 Used historical S&P index data and VIX index data to identify recession periods.  
 VIX index reflexes the volatility of the financial market.  
-Recessions usually come with a low S&P index and high VIX index.
+Recessions usually come with a low S&P index and high VIX index.  
 ![avatar](/images/recession.png)
 
-## step 2: Calculate simple indicators and 2-way & 3-way complex indicators.
+## Step 2: Calculate simple indicators and 2-way & 3-way complex indicators.
+Simple indicators: Formed from commonly used trading rules.
+2-way & 3-way complex indicators: Formed by combining simple indicators.  
+![avatar](/images/rules.png)
 
-## step 3: Build predictive models on a rolling basis.
+## Step 3: Build predictive models on a rolling basis.
+Built a random forest model and optimized its hyper-parameters by cross-validation on a rolling basis.
+![avatar](/images/rolling.png)
