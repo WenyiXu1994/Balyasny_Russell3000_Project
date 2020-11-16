@@ -1,5 +1,7 @@
 # Balyasny_Russell3000_Project
 This is an internship project finished with Balyasny Asset Management. No confidential information is included.  
+
+The goal is to build a model to predict short-term stock price movements in the consumer discretionary of the Russell3000 index.
   
 All the historical price and volumn data used in the "Simple_indicator_formation.ipynb" file is uploaded to Google Cloud. You can access them through https://drive.google.com/drive/folders/1iU9uRVFZ1Koh8b436gbxqzAUjdcH1AG_?usp=sharing
 
@@ -20,4 +22,7 @@ Recessions usually come with a low S&P index and high VIX index.
 Built a random forest model and optimized its hyper-parameters by cross-validation on a rolling basis.
 ![avatar](/images/rolling.png)
 
-
+## Results
+Out model increaes the prediction accuracy by 9%.  
+The backtesting results of one example company that proves the superiority of our model is shown below.  
+![avatar](/images/backtest.png)
